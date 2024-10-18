@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "监控",
+      "name": "状态监控",
       "url": "https://status.pknote.top"
     }
   ],
