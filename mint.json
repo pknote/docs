@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "胖氪笔记",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://img.xwyue.com/i/2024/04/08/6613aaad2a8ae.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
