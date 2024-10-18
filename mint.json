@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "点击开始",
       "pages": [
         "introduction",
         "quickstart",
