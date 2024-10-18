@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "点击开始",
+      "group": "操作系统",
       "pages": [
         "introduction",
         "quickstart",
