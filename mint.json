@@ -1,10 +1,10 @@
 {
-  "name": "Mintlify",
+  "name": "胖氪笔记",
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://img.xwyue.com/i/2024/04/08/6613aaad2a8ae.png",
   "colors": {
     "primary": "#16A34A",
     "light": "#4ADE80",
@@ -12,23 +12,23 @@
   },
   "topbarLinks": [
     {
-      "name": "Contact Us",
-      "url": "mailto:support@mintlify.com"
+      "name": "友链",
+      "url": "https://pknote.top/links/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://1tc7vihvbit.typeform.com/to/pZJ31XZB"
+    "name": "胖氪笔记",
+    "url": "https://pknote.top/"
   },
   "anchors": [
     {
-      "name": "API Components",
+      "name": "博客圈",
       "icon": "rectangle-terminal",
       "color": "#f59f0b",
       "url": "api-components"
     },
     {
-      "name": "Community",
+      "name": "软件库",
       "icon": "comments",
       "color": "#2564eb",
       "url": "https://discord.gg/MPNgtSZkgK"
