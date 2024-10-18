@@ -1,91 +1,64 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "胖氪笔记",
+  "name": "Mintlify",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
   },
-  "favicon": "https://img.xwyue.com/i/2024/04/08/6613aaad2a8ae.png",
+  "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
+    "primary": "#16A34A",
+    "light": "#4ADE80",
+    "dark": "#166534"
   },
   "topbarLinks": [
     {
-      "name": "状态监控",
-      "url": "https://status.pknote.top"
+      "name": "Contact Us",
+      "url": "mailto:support@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "胖氪笔记",
-    "url": "https://pknote.top"
+    "name": "Get Started",
+    "url": "https://1tc7vihvbit.typeform.com/to/pZJ31XZB"
   },
-  "tabs": [
-    {
-      "name": "哈哈哈",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "111",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "API Components",
+      "icon": "rectangle-terminal",
+      "color": "#f59f0b",
+      "url": "api-components"
     },
     {
-      "name": "222",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "333",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Community",
+      "icon": "comments",
+      "color": "#2564eb",
+      "url": "https://discord.gg/MPNgtSZkgK"
     }
   ],
   "navigation": [
     {
-      "group": "操作系统",
-      "pages": [
-        "introduction1",
-        "quickstart2",
-        "development3"
-      ]
+      "group": "Getting Started",
+      "pages": ["introduction", "quickstart"]
     },
     {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
+      "group": "API Components",
+      "pages": ["api-playground/overview", "api-playground/configuration"]
     },
     {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "group": "Settings",
+      "pages": ["settings/global", "settings/page"]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "group": "Analytics",
+      "pages": ["analytics/posthog"]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "slack": "https://mintlify.com/community",
+    "x": "https://x.com/mintlify"
+  },
+  "integrations": {
+    "intercom": "APP_ID",
+    "frontchat": "CHAT_ID"
   }
 }
