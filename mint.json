@@ -53,9 +53,7 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "slack": "https://mintlify.com/community",
-    "x": "https://x.com/mintlify"
+    "github": "https://github.com/pknote"
   },
   "integrations": {
     "intercom": "APP_ID",
