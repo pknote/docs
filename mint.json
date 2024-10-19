@@ -20,24 +20,16 @@
     "name": "胖氪笔记",
     "url": "https://pknote.top/"
   },
-  "anchors": [
-    {
+  "anchors": {
       "name": "胖氪笔记",
       "icon": "house",
       "color": "#2564eb",
       "url": "https://pknote.top/"
-    }
-  ],
-  "tabs": [
-  {
+  },
+  "tabs": {
     "name": "操作系统",
     "url": "https://pknote.top/winos/"
   },
-  {
-    "name": "软件仓库",
-    "url": "https://pknote.top/software/"
-  }
-],
   "footerSocials": {
     "github": "https://github.com/pknote"
   }
