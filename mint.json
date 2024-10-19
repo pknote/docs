@@ -22,16 +22,10 @@
   },
   "anchors": [
     {
-      "name": "博客圈",
-      "icon": "heart",
-      "color": "#f59f0b",
-      "url": "https://pknote.top/"
-    },
-    {
-      "name": "软件库",
+      "name": "胖氪笔记",
       "icon": "comments",
       "color": "#2564eb",
-      "url": "https://discord.gg/MPNgtSZkgK"
+      "url": "https://pknote.top/"
     }
   ],
   "navigation": [
