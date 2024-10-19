@@ -28,29 +28,7 @@
       "url": "https://pknote.top/"
     }
   ],
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": ["introduction", "quickstart"]
-    },
-    {
-      "group": "API Components",
-      "pages": ["api-playground/overview", "api-playground/configuration"]
-    },
-    {
-      "group": "Settings",
-      "pages": ["settings/global", "settings/page"]
-    },
-    {
-      "group": "Analytics",
-      "pages": ["analytics/posthog"]
-    }
-  ],
   "footerSocials": {
     "github": "https://github.com/pknote"
-  },
-  "integrations": {
-    "intercom": "APP_ID",
-    "frontchat": "CHAT_ID"
   }
 }
