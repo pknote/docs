@@ -30,12 +30,12 @@
   ],
   "tabs": [
   {
-    "name": "Writing Content",
-    "url": "content"
+    "name": "操作系统",
+    "url": "https://pknote.top/winos/"
   },
   {
-    "name": "API References",
-    "url": "api-playground"
+    "name": "软件仓库",
+    "url": "https://pknote.top/software/"
   }
 ],
   "footerSocials": {
