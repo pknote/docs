@@ -23,7 +23,7 @@
   "anchors": [
     {
       "name": "博客圈",
-      "icon": "rectangle-terminal",
+      "icon": "heart",
       "color": "#f59f0b",
       "url": "https://pknote.top/"
     },
