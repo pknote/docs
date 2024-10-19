@@ -28,6 +28,17 @@
       "url": "https://pknote.top/"
     }
   ],
+  "tabs": [
+  {
+    "name": "Writing Content",
+    "url": "content"
+  },
+  {
+    "name": "API References",
+    "url": "api-playground"
+  }
+]
+
   "footerSocials": {
     "github": "https://github.com/pknote"
   }
